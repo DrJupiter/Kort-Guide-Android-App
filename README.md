@@ -46,7 +46,7 @@ Du har nu en basal app, som du enten kan bygge videre på, eller du kan starte e
 I forhold til, hvad appen kan bygges videre til, så er the sky the limit.
 Men jeg ville anbefale og prøve at bygge noget simpelt og brugbart, som du kan bruge i den hverdag engang i mellem.
 Det behøver ikke være noget mega nyt og spændende, det er helt fint og reinvent the wheel. Fx kunne du prøve at bygge en timer app, og implementere og feature eller to, som du føler burde være i din ur app, men som ikke er der.
-Du kunne også lave en simpel liste app til, når du skal ud og købe noget ind.
+Du kunne også lave en simpel liste app til, når du skal ud og købe noget ind eller som TODO.
 Eller noget helt tredje.
 
 For yderligere inspiration til, hvad du kunne bygge videre på din app, så kan du evt. gå ind og læse og implementere noget fra [andre guides](https://developer.android.com/guide) af google.
