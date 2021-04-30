@@ -5,7 +5,7 @@
 - 🔓 [Unlock Developer Settings](https://www.hardreset.info/devices/huawei/huawei-p30-lite/faq/tips-tricks/how-to-open-developer-options-in-android-device/) på din telefon, og slå __USB Debugging__ til. _(Hans kan også hjælpe dig her, hvis det er.)_
 - ⬇️ Download [Android studio](https://developer.android.com/studio)
 - 🔌 Tag din telefons oplader stik (eller et andet stik) og sæt det i den telefon og din computer
-- 🚶‍♀️ Følg [introduktionen](https://developer.android.com/training/basics/firstapp)
+- 🚶‍♀️ Følg [Build your First App](https://developer.android.com/training/basics/firstapp) introduktionen.
 - ✨ Tag det, du har lært, og byg noget sejt.
 > For inspiration evt. udforsk [andre guides](https://developer.android.com/guide)
 
