@@ -1,4 +1,4 @@
-# Kort-Guide-Android-App
+# Kort Guide Android App
 
 ## Outline 
 
